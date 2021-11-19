@@ -1,2 +1,2 @@
 # JPattern
- interactive pattern using animated cascading circles; a project created in Processing programming environment
+ interactive pattern using animated cascading circles; a project created in Processing 3 programming environment
